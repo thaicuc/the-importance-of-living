@@ -209,5 +209,5 @@ reason will be of small avail; only the spirit of reasonableness, a sort of
 warm, glowing, emotional and intuitive thinking, joined with compassion, will
 insure us against a reversion to our ancestral type. Only the development of our
 life to bring it into harmony with our instincts can save us. I consider the
-education of our senses, our heart, and our intuition rather more important than
+education of our senses, our intuition, and our heart rather more important than
 the education of our intellect.
