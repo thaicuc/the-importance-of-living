@@ -39,3 +39,5 @@ tiger is a murderer, every horse a coward, every tortoise a lazy louse, and
 finally, every insect, reptile, bird and beast is obscene when he performs his
 natural vital functions. What a wholesale transformation of values! And that is
 the reason why we sit back and wonder how the Lord made us so imperfect.
+
+[Next: 09 - On Being Mortal &rarr;](https://github.com/thaicuc/the-importance-of-living/blob/master/09-on-being-mortal.md)

@@ -111,3 +111,5 @@ specific antidotes against poison, on the whole with amazing success, and it
 does all these things with absolute silence, without the usual racket of a
 factory, so that our superfine metaphysician may not be disturbed and is free to
 think about his spirit or his essence.
+
+[Next: 06 - Human Life A Poem &rarr;](https://github.com/thaicuc/the-importance-of-living/blob/master/06-human-life-a-poem.md)

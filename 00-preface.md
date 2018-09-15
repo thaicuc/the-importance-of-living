@@ -133,3 +133,5 @@ press and on the proofs, and Miss Lillian Peffer for making the Index.
 Lin Yutang  
 New York City  
 July 30, 1937
+
+[Next: 01 - Approach to Life &rarr;](https://github.com/thaicuc/the-importance-of-living/blob/master/01-approach-to-life.md)

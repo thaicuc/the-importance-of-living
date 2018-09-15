@@ -229,3 +229,5 @@ complete understanding of and harmony with nature, resulting in what I may call
 naturalist then settles down to this life with a sort of animal satisfaction. As
 Chinese illiterate women put it, "Other gave birth to us and we give birth to
 others. What else are we to do?"
+
+[Next: 04 - Earth Bound &rarr;](https://github.com/thaicuc/the-importance-of-living/blob/master/04-earth-bound.md)

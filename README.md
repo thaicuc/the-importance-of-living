@@ -4,8 +4,6 @@
 > Only those who take leisurely what the people of the world are busy about can
 be busy about what the people of the world take leisurely.  
 
-***
-
 [00 - Preface](https://github.com/thaicuc/the-importance-of-living/blob/master/00-preface.md)
 
 [01 - Approach to Life](https://github.com/thaicuc/the-importance-of-living/blob/master/01-approach-to-life.md)

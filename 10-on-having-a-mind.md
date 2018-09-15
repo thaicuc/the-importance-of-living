@@ -211,3 +211,5 @@ insure us against a reversion to our ancestral type. Only the development of our
 life to bring it into harmony with our instincts can save us. I consider the
 education of our senses, our intuition, and our heart rather more important than
 the education of our intellect.
+
+[Next: 11 - Find Thyself Chuangtse &rarr](https://github.com/thaicuc/the-importance-of-living/blob/master/11-find-thyself-chuangtse.md)

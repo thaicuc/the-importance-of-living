@@ -42,3 +42,5 @@ largely as it was, and intruded himself as little upon the general scheme of
 things as he did upon the characters of his plays. Shakespeare was like Nature
 herself, and that is the greatest compliment we can pay to a writer or thinker.
 He merely lived, observed life and went away.
+
+[Next: 07 - The Monkey Epic &rarr;](https://github.com/thaicuc/the-importance-of-living/blob/master/07-the-monkey-epic.md)

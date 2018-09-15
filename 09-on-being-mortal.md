@@ -115,3 +115,5 @@ Tasheng, to his friend:
 > the entire asset of their bowels and internal organs (i.e, instincts and
 > emotions) are dominated by the play, without realizing once that they are
 > really actors!
+
+[Next: 10 - On Having A Mind &rarr](https://github.com/thaicuc/the-importance-of-living/blob/master/10-on-having-a-mind.md)

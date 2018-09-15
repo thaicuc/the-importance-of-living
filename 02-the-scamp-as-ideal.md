@@ -79,3 +79,5 @@ in the flesh, visible, palpable and understandable by the common man. Surveying
 Chinese literature, art and philosophy of a wise disenchantment and a hearty
 enjoyment of life is their common message and teaching the most constant, most
 characteristic and most persistent refrain of Chinese thought.
+
+[Next: 03 - Christian, Geek, and Chinese &rarr;](https://github.com/thaicuc/the-importance-of-living/blob/master/03-christian-greek-and-chinese.md)

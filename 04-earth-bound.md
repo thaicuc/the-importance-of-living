@@ -55,3 +55,5 @@ of biology and psychology, and of the place of the senses, emotions and, above
 all, instincts in our life. Man is made of flesh and spirit both, and it should
 be philosophy's business to see that the mind and body live harmoniously
 together, that there be a reconciliation between the two.
+
+[Next: 05 - A Biological View &rarr;](https://github.com/thaicuc/the-importance-of-living/blob/master/05-a-biological-view.md)

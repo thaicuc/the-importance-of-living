@@ -91,3 +91,5 @@ Chinese literature will testify. And that, after all, is what I am driving
 at. Yes, the Chinese have a light, an almost gay, philosophy, and the best
 proof of their philosophic temper is to be found in this wise and merry
 philosophy of living.
+
+[Next: 02 - The Scamp as Ideal &rarr;](https://github.com/thaicuc/the-importance-of-living/blob/master/02-the-scamp-as-ideal.md)
