@@ -67,6 +67,7 @@ expressed in a parable by Chuangtse:
 > forgetful of all else. And he saw a mantis spring and seize it, forgetting in
 > the act its own body, which the strange bird immediately pounced upon and made
 > its prey. And this it was which had caused the bird to forget  its own nature.  
+>  
 > "Alas!" cried Chuangtse with a sigh, "How creatures injure one another. Loss
 > follows the pursuit of gain."  
 >  
