@@ -61,6 +61,7 @@ expressed in a parable by Chuangtse:
 > inch in circumference. And it flew close past Chuangtse's head to alight a
 > chestnut grove. "What manner of bird is this?" cried Chuangtse. "With strong
 > wings it does not fly away. With large eyes it does not see."  
+>  
 > So he picked up his skirts and strode towards it with his cross-bow, anxious
 > to get a shot. Just then he saw a cicada enjoying itself in the shade,
 > forgetful of all else. And he saw a mantis spring and seize it, forgetting in
@@ -68,11 +69,14 @@ expressed in a parable by Chuangtse:
 > its prey. And this it was which had caused the bird to forget  its own nature.  
 > "Alas!" cried Chuangtse with a sigh, "How creatures injure one another. Loss
 > follows the pursuit of gain."  
+>  
 > So he laid aside his bow and went home, driven away by the park-keeper who
 > wanted to know what business he had there.  
+>  
 > For three months after this, Chuangtse did not leave the house; and at length
 > Lin Chu asked him, saying, "Master, how is it that you have not been out for
 > so long?"  
+>  
 > "While keeping my physical frame", replied Chuangtse, "I lost sight of my real
 > self. Gazing at muddy water, I lost sight of the clear abyss. Besides, I have
 > learnt from the Master as follows: 'When you go into the world, follow its
