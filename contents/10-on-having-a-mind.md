@@ -212,4 +212,4 @@ life to bring it into harmony with our instincts can save us. I consider the
 education of our senses, our intuition, and our heart rather more important than
 the education of our intellect.
 
-[Next: 11 - Find Thyself Chuangtse &rarr;](https://github.com/thaicuc/the-importance-of-living/blob/master/11-find-thyself-chuangtse.md)
+[Next: 11 - Find Thyself Chuangtse &rarr;](https://github.com/thaicuc/the-importance-of-living/blob/master/contents/11-find-thyself-chuangtse.md)
