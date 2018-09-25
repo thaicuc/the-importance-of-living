@@ -5,11 +5,11 @@ person in the world, if indeed such a person exists. "Philosopher" has become
 merely a term of social compliment. Anyone who is abstruse and unintelligible is
 called "a philosopher". Anyone who is unconcerned with the present is also
 called "a philosopher". And yet there is some truth with the latter meaning.
-When Shakespeare made Touchstone say in As You Like It, "Hast any philosophy in
-thee, shepherd?" he was using it in the second meaning. In this sense,
-philosophy is but a common, rough and ready outlook on things or on life in
-general, and every person has more or less of it. Anyone who refuses to take the
-entire panorama of reality on its surface value, or refuses to believe every
+When Shakespeare made Touchstone say in ***As You Like It***, "Hast any 
+philosophy in thee, shepherd?" he was using it in the second meaning. In this 
+sense, philosophy is but a common, rough and ready outlook on things or on life 
+in general, and every person has more or less of it. Anyone who refuses to take 
+the entire panorama of reality on its surface value, or refuses to believe every
 word that appears in a newspaper, is more or less a philosopher. He is the
 fellow who refuses to be taken in.
 
