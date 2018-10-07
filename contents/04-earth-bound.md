@@ -56,4 +56,4 @@ all, instincts in our life. Man is made of flesh and spirit both, and it should
 be philosophy's business to see that the mind and body live harmoniously
 together, that there be a reconciliation between the two.
 
-[Next: 5 - A Biological View &rarr;](https://github.com/thaicuc/the-importance-of-living/blob/master/contents/05-a-biological-view.md)
+[Next: A Biological View &rarr;](https://github.com/thaicuc/the-importance-of-living/blob/master/contents/05-a-biological-view.md)
