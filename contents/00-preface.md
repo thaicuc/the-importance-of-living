@@ -134,4 +134,4 @@ Lin Yutang
 New York City  
 July 30, 1937
 
-[1. Approach to Life &rarr;](https://github.com/thaicuc/the-importance-of-living/blob/master/contents/01-approach-to-life.md)
+Next: [1. Approach to Life &rarr;](https://github.com/thaicuc/the-importance-of-living/blob/master/contents/01-approach-to-life.md)
