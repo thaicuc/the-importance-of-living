@@ -94,4 +94,4 @@ After all, this Monkey, which is an image of ourselves, is an extremely lovable
 creature, in spite of his conceit and his mischief. So should we, too, be able
 to love humanity in spite of all its weaknesses and shortcomings.
 
-[Next: 8 - In the Image of the Monkey &rarr;](https://github.com/thaicuc/the-importance-of-living/blob/master/contents/08-in-the-image-of-the-monkey.md)
+[Next: In the Image of the Monkey &rarr;](https://github.com/thaicuc/the-importance-of-living/blob/master/contents/08-in-the-image-of-the-monkey.md)
