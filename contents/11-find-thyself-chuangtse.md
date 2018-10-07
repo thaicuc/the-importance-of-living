@@ -1,4 +1,4 @@
-# Find Thyself: Chuangtse
+# Find Thyself - Chuangtse
 
 In modern life, a philosopher is about the most honored and most unnoticed
 person in the world, if indeed such a person exists. "Philosopher" has become
