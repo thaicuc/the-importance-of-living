@@ -47,8 +47,8 @@ Who are we? That is the first question. It is a question almost impossible to
 answer. But we all agree that the busy self occupied in our daily activities is
 not quite the real self. We are quite sure we have lost something in the mere
 pursuit of living. When we watch a person running about looking for something in
-a field, the wise man can set a puzzle for all the spectators to solve "What has
-that person lost?" 
+a field, the wise man can set a puzzle for all the spectators to solve the 
+question "What has that person lost?" 
 
 Some one thinks it is a watch; another thinks it is a diamond brooch; and others 
 will essay other guesses. After all these guesses have failed, the wise man who 
