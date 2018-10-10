@@ -37,24 +37,26 @@ merry philosophy of living, eventually typified in the life of T'ao Yuanming, in
 my opinion China's greatest poet and most harmonious personality.
 
 The only problem unconsciously assumed by all Chinese philosophers to be of any
-importance is: how shall we enjoy life, and who can best enjoy life? No
-perfectionism, no straining after the unattainable, no postulating of the
-unknowable; but taking poor, mortal human nature as it is, how shall we organize
-our life that we can work peacefully, endure nobly and live happily?
+importance is "How shall we enjoy life?" and "Who can best enjoy life?" 
+
+No perfectionism, no straining after the unattainable, no postulating of the
+unknowable; but taking poor, mortal human nature as it is, how shall we 
+organize our life that we can work peacefully, endure nobly and live happily?
 
 Who are we? That is the first question. It is a question almost impossible to
 answer. But we all agree that the busy self occupied in our daily activities is
 not quite the real self. We are quite sure we have lost something in the mere
 pursuit of living. When we watch a person running about looking for something in
-a field, the wise man can set a puzzle for all the spectators to solve: what has
-that person lost? Some one thinks it is a watch; another thinks it is a diamond
-brooch; and others will essay other guesses. After all these guesses have
-failed, the wise man who really doesn't know what the person is seeking after
-tells the company: "I'll tell you. He has lost some breath." And no one can deny
-that he is right. So we often forget our true self in the pursuit of living,
-like a bird forgetting its own danger in pursuit of a mantis, which again
-forgets its own danger in pursuit of another prey, as is so beautifully
-expressed in a parable by Chuangtse:
+a field, the wise man can set a puzzle for all the spectators to solve "What has
+that person lost?" 
+
+Some one thinks it is a watch; another thinks it is a diamond brooch; and others 
+will essay other guesses. After all these guesses have failed, the wise man who 
+really doesn't know what the person is seeking after tells the company: "I'll 
+tell you. He has lost some breath." And no one can deny that he is right. So we 
+often forget our true self in the pursuit of living, like a bird forgetting its 
+own danger in pursuit of a mantis, which again forgets its own danger in pursuit 
+of another prey, as is so beautifully expressed in a parable by Chuangtse:
 
 > When Chuangtse was wandering in the park at Tiao-ling, he saw a strange bird
 > which came from the South. Its wings were seven feet across. Its eyes were an
