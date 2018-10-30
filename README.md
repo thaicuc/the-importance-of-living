@@ -16,4 +16,4 @@
 [8. In the Image of the Monkey](https://github.com/thaicuc/the-importance-of-living/blob/master/contents/08-in-the-image-of-the-monkey.md)  
 [9. On Being Mortal](https://github.com/thaicuc/the-importance-of-living/blob/master/contents/09-on-being-mortal.md)  
 [10. On Having A Mind](https://github.com/thaicuc/the-importance-of-living/blob/master/contents/10-on-having-a-mind.md)  
-[11. Find Thyself: Chuangtse](https://github.com/thaicuc/the-importance-of-living/blob/master/contents/11-find-thyself-chuangtse.md)
+[11. Find Thyself - Chuangtse](https://github.com/thaicuc/the-importance-of-living/blob/master/contents/11-find-thyself-chuangtse.md)
