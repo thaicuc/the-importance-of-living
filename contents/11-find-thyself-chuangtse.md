@@ -88,7 +88,7 @@ of another prey, as is so beautifully expressed in a parable by Chuangtse:
 > its nature. The keeper of the chestnut grove took me for a thief. Consequently
 > I have not been out."
 
-Chuangtse was the eloquent follower of Laotse, as Menius was the eloquent
+Chuangtse was the eloquent follower of Laotse, as Mencius was the eloquent
 follower of Confucius, both separated from their masters by about a century.
 Chuangtse was a contemporary of Mencius, as Laotse was probly a contemporary of
 Confucius. But Mencius agreed with Chuangtse that we have lost something and the
