@@ -41,7 +41,7 @@ importance is "How shall we enjoy life?" and "Who can best enjoy life?"
 
 No perfectionism, no straining after the unattainable, no postulating of the
 unknowable; but taking poor, mortal human nature as it is, how shall we 
-organize our life that we can work peacefully, endure nobly and live happily?
+organize our life that we can work peacefully, endure nobly, and live happily?
 
 Who are we? That is the first question. It is a question almost impossible to
 answer. But we all agree that the busy self occupied in our daily activities is
