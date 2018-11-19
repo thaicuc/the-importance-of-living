@@ -93,10 +93,10 @@ follower of Confucius, both separated from their masters by about a century.
 Chuangtse was a contemporary of Mencius, as Laotse was probly a contemporary of
 Confucius. But Mencius agreed with Chuangtse that we have lost something and the
 business of philosophy is to discover and recover that which is lost, in this
-case, "a child's heart", according to Mencius. "A great man is he who has not
-lost the heart of a child." says this philosopher. Mencius regards the effect of
-the artificial life of civilization upon the youthful heart born in man as
-similar to the deforestation of our hills:
+case, ***a child's heart***, according to Mencius. "A great man is he who has 
+not lost the heart of a child." says this philosopher. Mencius regards the 
+effect of the artificial life of civilization upon the youthful heart born in 
+man as similar to the deforestation of our hills:
 
 > There was once a time when the forests of the Niu Mountain were beautiful. But
 > can the mountain any longer be regarded as beautiful, since being situated
